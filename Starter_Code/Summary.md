@@ -1,0 +1,1 @@
+In this homeowrk assignment we used natural language processing technuques to generate Vader sentiment scores for two major cryptocurrecies. We then created a tokenizer function to break down the articles we collected from newsapi into key words. Lastly we used spacey to pull out important entities from the text.
